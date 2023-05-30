@@ -7,6 +7,10 @@
     <title>Gustavo Gracano</title>
 </head>
 <body>
-    <div>Bem-vindo a pagina de testes! Site em desenvolvimento</div>
+    <?php
+
+        phpinfo();
+
+    ?>
 </body>
 </html>
